@@ -1,0 +1,45 @@
+黑马程序员-黑马程序员Vue全套视频教程，从Vue2.0到Vue3.0一套全覆盖   205
+用Vue3.0全家桶实现后台管理系统搭建/前端/Vue3的新特性  
+尚硅谷Vue.JS教程快速入门到项目实战（Vue3/VueJS技术详解）     61
+
+Promise:尚硅谷Web前端Promise教程从入门到精通（2021抢先版）  https://www.bilibili.com/video/BV1GA411x7z1
+axios:尚硅谷2021最新版axios入门与源码解析  https://www.bilibili.com/video/BV1wr4y1K7tq
+ES6-ES11:尚硅谷Web前端ES6教程，涵盖ES6-ES11  https://www.bilibili.com/video/BV1uK411H7on
+AJAX:【尚硅谷】3小时Ajax入门到精通   https://www.bilibili.com/video/BV1WC4y1b78y
+
+前端入门神器【必学必会】
+【尚硅谷】Web前端零基础入门HTML5+CSS3基础教程丨初学者从入门到精通  https://www.bilibili.com/video/BV1XJ411X7Ud
+前端学习路线图【2021版】  
+2021年度全网最全Web前端学习路线  https://www.bilibili.com/read/cv5650633
+  
+前端核心--扎好马步——》》
+HTML5+CSS3:【尚硅谷】Web前端零基础入门HTML5+CSS3基础教程丨初学者从入门到精通   https://www.bilibili.com/video/BV1XJ411X7Ud
+JS核心:【尚硅谷】JavaScript基础&实战丨JS入门到精通全套完整版   https://www.bilibili.com/video/BV1XJ411X7Ud
+JS高级:尚硅谷JavaScript高级教程(javascript实战进阶)  https://www.bilibili.com/video/BV14s411E7qf
+jQuery:尚硅谷jQuery教程(jquery从入门到精通)  https://www.bilibili.com/video/BV1ts411E7ag
+Bootstrap:尚硅谷Bootstrap教程(bootstrap框架讲解)   https://www.bilibili.com/video/BV1YW411T7yy
+ 
+必备技术--修炼内功——》》
+AngularJS:尚硅谷AngularJS实战教程(angular.js框架精讲)   https://www.bilibili.com/video/BV1ts411E7qg
+Node.js:【尚硅谷】最经典Node.JS全套完整版教程(快速入门nodejs)   https://www.bilibili.com/video/BV1bs411E7pD
+Zepto.js:尚硅谷Zepto教程(zepto.js框架精讲)   https://www.bilibili.com/video/BV18s411E7b4
+MongoDB:尚硅谷MongoDB基础教程(数据库精讲)   https://www.bilibili.com/video/BV18s411E78K
+Webpack:尚硅谷最新版Webpack5实战教程(从入门到精通)   https://www.bilibili.com/video/BV1e7411j7T5
+Git:尚硅谷Git教程全套完整版（12h深入掌握git）   https://www.bilibili.com/video/BV15J411973T
+ 
+前沿框架--习得绝学——》》 
+TypeScript:尚硅谷2021版TypeScript教程（李立超老师TS新课）  https://www.bilibili.com/video/BV1Xy4y1v7S2
+React:尚硅谷2021版React技术全家桶全套完整版（零基础入门到精通/男神天禹老师亲授）  https://www.bilibili.com/video/BV1wy4y1D7JT
+Vue全家桶:【尚硅谷】Web前端迅速上手Vue教程丨vue3.0入门到精通   https://www.bilibili.com/video/BV1Zy4y1K7SH
+Vue3新特性:尚硅谷2021最新Vue.JS教程快速入门到项目实战（Vue3/VueJS技术详解）   https://www.bilibili.com/video/BV1ra4y1H7ih
+ 
+项目实战--身经百战——》》
+Vue硅谷外卖:尚硅谷Vue实战教程(企业级vue项目，Vue项目硅谷外卖)   https://www.bilibili.com/video/BV1Lp411d7w4
+React谷粒后台:尚硅谷React项目教程(react实战全栈谷粒后台)        https://www.bilibili.com/video/BV1i4411N7Qc
+硅谷直聘:尚硅谷React项目实战，全栈开发Web前端项目《硅谷直聘》   https://www.bilibili.com/video/BV1ms411E72A
+谷粒音乐:尚硅谷前端项目教程_HTML5项目实战《谷粒音乐》           https://www.bilibili.com/video/BV1hs411E7NC
+微信小程序:尚硅谷小程序开发，微信小程序开发                     https://www.bilibili.com/video/BV1jW411R7Xz
+公众号开发:尚硅谷2021版微信小程序开发（零基础小程序开发入门到精通）   https://www.bilibili.com/video/BV12K411A7A2
+前端面试题:尚硅谷经典前端面试题精讲第一季(web前端大咖总结)      https://www.bilibili.com/video/BV1nb411P7tQ
+
+学习中遇到的非技术问题（只有声音、pdf无法复制、提取码错误等）→学习尚硅谷教程遇到的各种常识性问题   https://www.bilibili.com/read/cv3829288
